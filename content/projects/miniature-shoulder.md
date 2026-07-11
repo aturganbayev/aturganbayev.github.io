@@ -1,5 +1,6 @@
 +++
 title = "3D-Printed Miniature Model for Human-Robot Shoulder Coupling"
+weight = 5
 [extra]
 paper = "https://ieeexplore.ieee.org/document/10458641"
 icon = "/assets/icons/cog.svg"

@@ -1,5 +1,6 @@
 +++
 title = "TurtleBot3 Obstacle Avoidance & ArUco Marker Navigation"
+weight = 3
 [extra]
 github = "https://github.com/aturganbayev/CSCI5551-EE5271_Turtlebot_Navigation"
 report = "/files/CSCI5551_Final_Project.pdf"

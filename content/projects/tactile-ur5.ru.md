@@ -1,5 +1,6 @@
 +++
 title = "Тактильное сканирование поверхности с UR5"
+weight = 1
 [extra]
 github = "https://github.com/aturganbayev/tactile_UR5"
 icon = "/assets/icons/robot-arm.svg"

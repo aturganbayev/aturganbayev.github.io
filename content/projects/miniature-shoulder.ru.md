@@ -1,5 +1,6 @@
 +++
 title = "Миниатюрная 3D-печатная модель плечевого механизма для сопряжения человека и робота"
+weight = 5
 [extra]
 paper = "https://ieeexplore.ieee.org/document/10458641"
 icon = "/assets/icons/cog.svg"

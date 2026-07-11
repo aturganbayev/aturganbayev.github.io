@@ -1,5 +1,6 @@
 +++
 title = "Shoulder Rehabilitation Robotic Exoskeleton"
+weight = 4
 [extra]
 news = "https://cemrr.nu.edu.kz/en/news/9"
 video = "https://www.youtube.com/watch?v=BF6AlbPFsx4&t=535s"

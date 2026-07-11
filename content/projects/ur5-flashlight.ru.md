@@ -1,5 +1,6 @@
 +++
 title = "Автоматизированная сборка фонарика с помощью UR5"
+weight = 2
 [extra]
 github = "https://github.com/aturganbayev/ME5286_UR5_Flashlight_Assembly#me5286-lab-4--ur5-flashlight-assembly"
 report = "/files/ME5286_Flashlight_Assembly.pdf"
