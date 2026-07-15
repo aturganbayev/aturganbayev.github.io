@@ -15,4 +15,4 @@ color = "#fff"
 * Generated full-surface and 20-strip vertical touch-pose patterns (10 points per strip) with height-scaled orientation tilt (7°–14°) for tool clearance, then executed them via a custom Python UR5 IK solver (needed because the controller's single-seed IK fails to converge for poses spread around the cone), streaming a single URScript program over the robot's secondary client port while the real-time state stream kept broadcasting the TCP pose.
 * Synchronized ATI Nano17 force readings with the UR5's real-time TCP pose stream via NI-DAQ, auto-detecting each press and logging its peak force and pose for offline analysis.
 
-{{ youtube(id="ED0S0Vk0w-s") }}
+{{ youtube(id="YsXVEiOJwH0") }}
