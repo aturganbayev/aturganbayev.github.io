@@ -169,7 +169,7 @@ Studying Machine Learning Fundamentals, Robotics, Robot Vision, Introduction to 
 title = "Research Assistant"
 subtitle = "Tactile Robotics Laboratory"
 subtitle_link = "https://tact.nu.edu.kz/"
-date = "May 2026 - Present"
+date = "May 2026 - Sept 2026"
 icon = "/assets/images/tactile.png"
 background = "#f0f0f0"
 foreground = "#fff"
