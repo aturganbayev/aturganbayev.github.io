@@ -177,6 +177,18 @@ content = """
 Developed an automated tactile exploration system for a UR5 robot arm, enabling systematic, calibrated surface-contact mapping with synchronized force sensing on simulated and physical robots.
 """
 
+[[extra.timeline]]
+title = "MS Capstone Researcher"
+subtitle = "ARDC Lab"
+subtitle_link = "https://sites.google.com/umn.edu/rcaverly/home"
+date = "Sept 2026 - Present"
+icon = "/assets/images/ardc.png"
+background = "#fff"
+foreground = "#7a0019"
+content = """
+Capstone project under Prof. Ryan Caverly: center-of-mass self-calibration for SPACESiM, a cable-driven spacecraft motion simulator. Developing a method to identify the center of mass of its suspended 8-cable, 6-DOF platform from the robot's own measurements, validated in the lab's Python simulator ahead of prototype tests.
+"""
+
 ################
 # PUBLICATIONS #
 ################
