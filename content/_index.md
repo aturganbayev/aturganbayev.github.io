@@ -85,7 +85,7 @@ calltoaction = "Read More"
 background = "#004791"
 color = "#fff"
 description = """
-Designed a 5-DOF miniature shoulder coupling mechanism combining a 2-DOF crank-rocker four-bar linkage with a 3-DOF cable-driven parallel mechanism. Derived forward and inverse kinematics and built a 3D-printed prototype.
+Designed the 2-DOF crank-rocker four-bar linkage of a 5-DOF miniature shoulder coupling mechanism that also uses a 3-DOF cable-driven parallel mechanism. Derived the linkage's forward and inverse kinematics and built a 3D-printed prototype.
 """
 
 ############
